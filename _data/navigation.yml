@@ -6,12 +6,14 @@
 
 main:
  - title: "CV"
-    # url: /cv/
-    url: /files/Godfred_Academic_CV(2).pdf
+   url: /cv/
     
   - title: "Publications"
     url: /publications/
-
+    
+- title: "Guide"
+    url: /markdown/
+    
   # - title: "Talks"
   #   url: /talks/    
 
@@ -24,5 +26,4 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  
