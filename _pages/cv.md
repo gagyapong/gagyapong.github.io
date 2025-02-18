@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% files/Godfred_Academic_CV (2).pdf %}
+{% include base_path %}
 
 Education
 ======
