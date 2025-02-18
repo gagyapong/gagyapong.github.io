@@ -27,7 +27,7 @@ author:
   #bio              : "PhD Student Computational Linguistics "
   location         : "Gainesville, FL"
   employer         : "University of Florida"
-  uri              : "gagyapong.github.io"
+  #uri              : "gagyapong.github.io"
   email            : "gagyapong@ufl.edu" 
 
   # Academic websites
