@@ -1,6 +1,6 @@
 ---
 title: "LCUGA 2025 Presentation"
-excerpt: "_How Clean Should My Data Be?_ I presented this work at the Linguistics Conference at the University of Georgia (LCUGA) in Athens, GA on March 16, 2025. <br/><img src='/images/LCUGA25.JPG'>"
+excerpt: "_How Clean Should My Data Be?_ I presented this work at the Linguistics Conference at the University of Georgia (LCUGA 2025) in Athens, GA on March 16, 2025. <br/><img src='/images/LCUGA25.JPG'>"
 collection: portfolio
 ---
 
