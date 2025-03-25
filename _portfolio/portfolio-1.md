@@ -1,6 +1,6 @@
 ---
 title: "LCUGA 2025 Presentation"
-excerpt: "How Clean Should My Data Be?. <br/><img src='/images/500x300.png'>"
+excerpt: "How Clean Should My Data Be?. <br/><img src='/images/LCUGA25.JPG'>"
 collection: portfolio
 ---
 
@@ -18,14 +18,15 @@ an F1 score of 72%.
 Nyangbo’s unique linguistic features, including its agglutinative structure and complex tonal
 system, present significant challenges for morphological segmentation. In this language, entire
 sentences can be represented as single words. For example:
+
 1. a-tɛ́-ba-dɛ́-mᴐ-ɛ́
 3SG-NEG-FUT-DIRECTIONAL-VERB-OBJ
 ‘S/he will not go and see her/him.
-’
-This example highlights the interaction of multiple morphemes, including the pronominal affix a-
-, negation affix tɛ ́ -, tense affix ba-, directional marker dɛ ́ -, verb mᴐ, and the object pronoun -í,
+
+This example highlights the interaction of multiple morphemes, including the pronominal affix a-, negation affix tɛ ́ -, tense affix ba-, directional marker dɛ ́ -, verb mᴐ, and the object pronoun -í,
 which assimilates to -ɛ ́ . The ability to accurately segment such structures is critical for
 computational linguistic applications.
+
 Key findings suggest that combining noisy and cleaned datasets enhances generalization while
 using exclusively noisy data risks overfitting to noise patterns. Figures depicting training losses
 for noisy and cleaned datasets indicate that cleaner datasets promote better convergence, whereas
