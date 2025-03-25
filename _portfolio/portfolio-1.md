@@ -20,11 +20,13 @@ system, present significant challenges for morphological segmentation. In this l
 sentences can be represented as single words. For example:
 
 1. a-tɛ́-ba-dɛ́-mᴐ-ɛ́
-3SG-NEG-FUT-DIRECTIONAL-VERB-OBJ
-‘S/he will not go and see her/him.
+
+    3SG-NEG-FUT-DIRECTIONAL-VERB-OBJ
+
+    ‘S/he will not go and see her/him.
 
 This example highlights the interaction of multiple morphemes, including the pronominal affix a-, negation affix tɛ ́ -, tense affix ba-, directional marker dɛ ́ -, verb mᴐ, and the object pronoun -í,
-which assimilates to -ɛ ́ . The ability to accurately segment such structures is critical for
+which assimilates to -ɛ ́. The ability to accurately segment such structures is critical for
 computational linguistic applications.
 
 Key findings suggest that combining noisy and cleaned datasets enhances generalization while
