@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "👋🏼Hello there, I'm Godfred"
 author_profile: true
 redirect_from: 
   - /about/
