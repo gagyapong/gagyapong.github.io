@@ -13,7 +13,7 @@ main:
     url: /portfolio/
     
    - title: "Publications"
-     url: /https://scholar.google.com/citations?user=zcl69TUAAAAJ&hl=en/
+     url: https://scholar.google.com/citations?user=zcl69TUAAAAJ&hl=en
     
   # - title: "Talks"
   #   url: /talks/    
