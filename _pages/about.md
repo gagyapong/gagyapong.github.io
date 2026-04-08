@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Linguistics](https://lin.ufl.edu/) and [Computer Science](https://www.cise.ufl.edu/)  at the [University of Florida](https://www.ufl.edu/) and an [Akan language instructor](https://africa.ufl.edu/academics-programs/african-languages/afli/instructors/) in the [Department of Languages, Literatures, and Cultures](https://languages.ufl.edu/). My research sits at the intersection of computational linguistics, language pedagogy, and Natural Language Processing (NLP) for African languages.
+I am a PhD candidate in [Linguistics](https://lin.ufl.edu/) and [Computer Science](https://www.cise.ufl.edu/)  at the [University of Florida](https://www.ufl.edu/) and an [Akan language instructor](https://africa.ufl.edu/academics-programs/african-languages/afli/instructors/) in the [Department of Languages, Literatures, and Cultures](https://languages.ufl.edu/). My research sits at the intersection of computational linguistics, language pedagogy, and Natural Language Processing (NLP) for African languages.
 
 As a researcher at the [Machine Learning for Endangered Language Documentation (MELD) Lab](https://meld.lin.ufl.edu/), I contribute to efforts that enhance the digital representation of low-resource languages. My work addresses the critical challenge of data scarcity, which limits the development of NLP models for understudied languages. By creating digital resources, improving linguistic annotation frameworks, and integrating machine learning techniques, I aim to make African languages more accessible in the digital age.
 
